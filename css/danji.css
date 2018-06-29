@@ -1,0 +1,19 @@
+*{
+    list-style-type: none;
+    text-decoration: none;
+}
+.main-header{
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    background-color: #eb6f6f;
+}
+.main-nav{
+    display: flex;
+}
+.main-nav li {
+    padding: 0 40px;
+}
+.main-nav li a,.main-header h1 a{
+    color: antiquewhite;
+}
